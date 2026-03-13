@@ -41,11 +41,11 @@ This is the latest architecture view aligned with the current codebase (`main.py
 
 ![Personal Assistant RAG Architecture - Latest](architecture_diagram.jpeg)
 
-## UI Prototype
+## Front End of Agent
 
-Latest UI prototype snapshot (sidebar knowledge-base controls + centered Q&A):
+Latest front-end prototype (left sidebar for knowledge-base controls and centered Q&A panel):
 
-![Personal Assistant RAG UI Prototype](C:/Users/sajal/.cursor/projects/e-Projects-langchain-pdf-word-rag-agent/assets/c__Users_sajal_AppData_Roaming_Cursor_User_workspaceStorage_76afa3c46520e4f272b6bb3db79d2f9e_images_image-9b140294-af15-441d-af63-ba61f89d1133.png)
+![Personal Assistant RAG Front End](ai_rag_agent_ui.jpg)
 
 ## Technical Stack
 
