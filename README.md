@@ -41,6 +41,12 @@ This is the latest architecture view aligned with the current codebase (`main.py
 
 ![Personal Assistant RAG Architecture - Latest](architecture_diagram.jpeg)
 
+## UI Prototype
+
+Latest UI prototype snapshot (sidebar knowledge-base controls + centered Q&A):
+
+![Personal Assistant RAG UI Prototype](C:/Users/sajal/.cursor/projects/e-Projects-langchain-pdf-word-rag-agent/assets/c__Users_sajal_AppData_Roaming_Cursor_User_workspaceStorage_76afa3c46520e4f272b6bb3db79d2f9e_images_image-9b140294-af15-441d-af63-ba61f89d1133.png)
+
 ## Technical Stack
 
 - **Frontend/UI:** `streamlit`
